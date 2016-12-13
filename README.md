@@ -1,5 +1,5 @@
-the quick
-brown fox
+tHe quick
+broWn fox
 jumped over
-the lazy
-dog
+the Lazy
+dOg
